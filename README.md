@@ -18,3 +18,4 @@ I also think refactoring is valuable in team projects. Cleaner and more organize
 ## Comment from Yvonne (Lyvoj)
 
 The emphasis on small, behavior-preserving changes stood out to me. Refactoring seems easier to review when each step has a clear purpose, such as renaming a confusing variable or extracting a long function. Tests can help check that these changes preserve the program's behavior. I would also keep refactoring separate from adding a new feature so teammates can understand and review each change more easily.
+Running the tests after each small refactoring would make it easier to identify which change caused a failure.
