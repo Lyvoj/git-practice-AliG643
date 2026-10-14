@@ -14,3 +14,7 @@ I also like the idea that software development is not only about making a progra
 I agree that refactoring is an important part of software development because code needs to remain understandable as a project grows. What I find especially useful is the idea that developers can improve the structure of existing code without changing what the program actually does.
 
 I also think refactoring is valuable in team projects. Cleaner and more organized code makes it easier for other developers to understand the project and continue working on it without introducing unnecessary bugs.
+
+## Comment from Yvonne (Lyvoj)
+
+The emphasis on small, behavior-preserving changes stood out to me. Refactoring seems easier to review when each step has a clear purpose, such as renaming a confusing variable or extracting a long function. Tests can help check that these changes preserve the program's behavior. I would also keep refactoring separate from adding a new feature so teammates can understand and review each change more easily.
